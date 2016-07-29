@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1469809529 source:c:\users\cyril\documents\development\mole\moleinterpreter\main.cpp
+	<iostream>
+	"Mole.h"
+
+1469809346 c:\users\cyril\documents\development\mole\moleinterpreter\include\mole.h
+	<iostream>
+	<fstream>
+	<vector>
+	<stack>
+	"struct.h"
+
+1469802502 c:\users\cyril\documents\development\mole\moleinterpreter\include\pile.h
+
+1469802502 source:c:\users\cyril\documents\development\mole\moleinterpreter\src\pile.cpp
+	"Pile.h"
+
+1469809560 source:c:\users\cyril\documents\development\mole\moleinterpreter\src\mole.cpp
+	"Mole.h"
+
+1469807261 c:\users\cyril\documents\development\mole\moleinterpreter\include\struct.h
+
